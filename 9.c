@@ -1,3 +1,4 @@
+// 2018 -> 6(c)
 #include<stdio.h>
 int main()
 {

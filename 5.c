@@ -1,3 +1,4 @@
+// 2017 -> 5(a)
 int num[] = {0, 0, 0, 0}; // no error
 float item[3][2] = {0, 1, 2, 3, 4, 5}; //no error
 // but following is the recommended
